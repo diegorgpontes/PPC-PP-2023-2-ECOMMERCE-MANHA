@@ -1,0 +1,23 @@
+/* Mudando a fonte global */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Estilizando títulos */
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  /* Espaçamento entre linhas */
+  p {
+    line-height: 1.5;
+    color:cadetblue;
+    background-color: yellow;
+  }
+  
+  /* Alinhamento de texto */
+  .texto-centralizado {
+    text-align: center;
+  }
+  
