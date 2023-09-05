@@ -10,7 +10,10 @@ Durante o curso vamos utilizar bastante o git, que é um carinha que faz gerenci
 
 #### Links importantes:
 
-XAMPP <https://www.apachefriends.org/pt_br/download.html>
-VSCODE <https://code.visualstudio.com/download>
-Referência sobre elementos HTML/CSS <https://www.w3schools.com/html/>
+- [x] XAMPP <https://www.apachefriends.org/pt_br/download.html>
+
+- [x] VSCODE <https://code.visualstudio.com/download>
+
+- [x] Referência sobre elementos HTML/CSS <https://www.w3schools.com/html/>
+
 
