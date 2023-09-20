@@ -1,3 +1,10 @@
+#### Membros do Grupo
+
+1. nome 1
+2. nome 2
+3. nome 3
+
+
 # Atividades da disciplina E-commerce
 
 Olá, pessoal. Tudo bem?
