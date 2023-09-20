@@ -5,6 +5,9 @@
 3. nome 3
 
 
+**ALTERAÇÃO REALIZADA PELO NAVEGADOR**
+
+
 # Atividades da disciplina E-commerce
 
 Olá, pessoal. Tudo bem?
